@@ -1,0 +1,4 @@
+{
+    "user": "consommateur@example.com",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NmE2M2I4YWUzZmMzMmZkZTM3M2I0ZWYiLCJyb2xlIjoiY29uc29tbWF0ZXVyIiwiaWF0IjoxNzIzMzQ1NDUxLCJleHAiOjE3MjM0MzE4NTF9.JBXDvfajxNcdw_kQrxlzQYk_3H7m5jcTK73E_EcK1vU"
+}
